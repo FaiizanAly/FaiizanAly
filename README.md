@@ -13,8 +13,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 src="https://img.shields.io/github/followers/faiizanaly?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiizanaly&label=Profile%20views&color=0e75b6&style=flat" alt="faiizanaly" /> </p>
 
-<p align="left"> <a href="https://twitter.com/faiizanaly" target="blank"><img src="https://img.shields.io/twitter/follow/faiizanaly?logo=twitter&style=for-the-badge" alt="faiizanaly" /></a> </p>
-
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/faiizanaly) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faiizanaly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faiizanaly) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22043801/faizan-ali) 
 
