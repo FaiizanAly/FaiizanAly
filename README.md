@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faizan Ali
 ======================================================================================================================================
-<h4>A Full-Stack Developer</h4>
+<h4>Still Learning</h4>
 
 - 🔭 I’m currently working on a Project
 - 🌱 I’m Interested to work on Web 3.0
