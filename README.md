@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>Still Learning</h4>
 
-- 🔭 I’m currently working on a Project
+- 🔭 I’m currently learning Kotlin (Android Development)
 - 🌱 I’m Interested to work on Web 3.0
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology
