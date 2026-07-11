@@ -1,118 +1,131 @@
-# 💫 About Me:
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faizan Ali
-======================================================================================================================================
+```md
+# 💫 About Me
 
-### 🚀 Always Learning & Building
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /> Hi, I'm **Faizan Ali**
 
-* 🎓 MCA Student
-* 🔭 Currently learning **Kotlin (Android Development)**
-* 🌱 Interested in **Web 3.0, Full-Stack Development & Open Source**
-* 👯 Contributing to Open Source through Pull Requests
-* 💬 Ask me about Technology, Web Development & Programming
-* 📫 Reach me at: **[itsfaizanali5@gmail.com](mailto:itsfaizanali5@gmail.com)**
-* ⚡ Fun fact: I believe in two things — **Ctrl + S and Coffee ☕**
+## 🚀 MCA Student | Android Developer | Full-Stack Developer
 
-<a href="https://github.com/FaiizanAly" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/FaiizanAly?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+I'm a passionate developer who enjoys building modern web applications, Android apps, and open-source projects. I love learning new technologies and creating clean, user-friendly digital experiences.
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=FaiizanAly&label=Profile%20views&color=0e75b6&style=flat" alt="FaiizanAly" />
+- 🎓 MCA Student
+- 📱 Currently learning **Kotlin (Android Development)**
+- 🌱 Exploring **Full-Stack Development, Android & Open Source**
+- 👯 Open to collaborating on interesting projects
+- 💬 Ask me about **Programming, Web Development & Technology**
+- 📫 **itsfaizanali5@gmail.com**
+
+<p>
+<img src="https://img.shields.io/github/followers/FaiizanAly?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+<img src="https://komarev.com/ghpvc/?username=FaiizanAly&style=for-the-badge&color=0891b2"/>
 </p>
 
 ---
 
-## 🌐 Portfolio
+# 🌐 Portfolio
 
-🔗 [Visit Portfolio](https://faizanaly.vercel.app/)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/faiizanaly)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/faiizanaly)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/faiizanaly)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow\&logoColor=white)](https://stackoverflow.com/users/22043801/faizan-ali)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://faizanaly.vercel.app)
 
 ---
 
-## 💻 Languages
+# 🌐 Connect With Me
 
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/>
-</p>
-
----
-
-## 🛠️ Frameworks & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/faiizanaly)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faiizanaly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faiizanaly)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faiizanaly)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsfaizanali5@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaiizanAly&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-</p>
+### Languages
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaiizanAly&theme=tokyonight&hide_border=true" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaiizanAly&theme=react-dark&hide_border=true" />
-</p>
+### Databases
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiizanAly&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### Cloud & Deployment
 
-## 🌟 Featured Projects
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### 🚀 UniUFO – MJPRU Campus Only Social Media
+### Tools
 
-A private social platform exclusively for MJPRU students with campus communities, discussions, and networking.
-
-🔗 https://github.com/FaiizanAly/UniUFO-MJPRU-Campus-Only-Social-Media
-
-### 🎨 Drawing App
-
-Interactive browser-based drawing application built using HTML, CSS & JavaScript.
-
-🔗 https://github.com/FaiizanAly/Drawing-App
-
-### 🍔 KCMT Canteen
-
-Online Food Ordering & Management System.
-
-🔗 https://github.com/FaiizanAly/kcmt-canteen
-
-### 🧮 GUI Calculator
-
-Responsive calculator built using HTML, CSS & JavaScript.
-
-🔗 https://github.com/FaiizanAly/gui-calculator
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-### 🤝 Let's Connect
+# 📊 GitHub Stats
 
-I'm always open to collaborating on interesting projects, contributing to open source, and connecting with fellow developers.
+![](https://github-readme-stats.vercel.app/api?username=FaiizanAly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-⭐ If you like my work, consider following me and checking out my repositories!
+![](https://github-readme-streak-stats.herokuapp.com/?user=FaiizanAly&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaiizanAly&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=FaiizanAly&theme=tokyo-night&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=FaiizanAly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
+
+---
+
+# 🔥 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=FaiizanAly&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌌 **UniUFO** | Campus-only social media platform for university students |
+| 🌐 **Bharat Web Azadari** | Modern website for Azadari programs |
+| 💼 **Portfolio** | Personal developer portfolio |
+| 🎨 **Drawing App** | Browser drawing application |
+| 🍔 **KCMT Canteen** | Food Ordering & Management System |
+
+---
+
+# 🐍 Contribution Snake
+
+> **Enable GitHub Actions first**, then create the workflow for the snake animation.
+
+![Snake animation](https://raw.githubusercontent.com/FaiizanAly/FaiizanAly/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# ☕ Support Me
+
+If you like my work, consider giving a ⭐ to my repositories and following my GitHub profile.
+
+---
+
+# 🤝 Let's Connect
+
+I'm always open to collaborating on exciting projects, contributing to Open Source, and connecting with developers around the world.
+
+⭐ **Thanks for visiting my profile!**
+```
