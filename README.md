@@ -5,11 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 🚀 Always Learning & Building
 
 * 🎓 MCA Student
-* 🔭 Currently learning **Kotlin (Android Development)**
+* 🔭 Currently learning **Coding**
 * 🌱 Interested in **Web 3.0, Full-Stack Development & Open Source**
 * 👯 Contributing to Open Source through Pull Requests
 * 💬 Ask me about Technology, Web Development & Programming
-* 📫 Reach me at: **[itsfaizanali5@gmail.com](mailto:itsfaizanali5@gmail.com)**
+* 📫 Reach me at: **[git.faizanali@gmail.com](mailto:git.faizanali@gmail.com)**
 * ⚡ Fun fact: I believe in two things — **Ctrl + S and Coffee ☕**
 
 <a href="https://github.com/FaiizanAly" target="_blank" rel="noreferrer">
