@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 👯 Contributing to Open Source through Pull Requests
 * 💬 Ask me about Technology, Web Development & Programming
 * 📫 Reach me at: **[git.faizanali@gmail.com](mailto:git.faizanali@gmail.com)**
-* ⚡ Fun fact: I believe in two things — **Ctrl + S and Coffee ☕**
+* ⚡ Fun fact: I believe in two things — **No Hugs, No Dates - Only Bugs and Updates 😅**
 
 <a href="https://github.com/FaiizanAly" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/FaiizanAly?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
